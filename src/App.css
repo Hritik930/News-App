@@ -1,0 +1,9 @@
+.logo{
+    filter: drop-shadow(5px 5px 2px  #0672dd);
+    font-size: 35px;
+}
+.plate{
+    overflow: hidden;
+    margin: 30px;
+    display: inline-block;
+}
